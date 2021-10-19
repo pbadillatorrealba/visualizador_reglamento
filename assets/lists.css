@@ -1,0 +1,7 @@
+ol {
+    list-style: none;
+}
+
+ol>li::marker {
+    content: attr(data-idx) " ";
+}

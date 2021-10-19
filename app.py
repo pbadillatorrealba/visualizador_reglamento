@@ -16,7 +16,10 @@ from dash import Input, Output, dcc, html
 from navbar import navbar
 from visualizador import visualizador
 
-app = dash.Dash(external_stylesheets=[dbc.themes.LUX])
+app = dash.Dash(
+    external_stylesheets=[dbc.themes.LUX, dbc.icons.BOOTSTRAP],
+    meta_tags=[{"name": "viewport", "content": "width=device-width, initial-scale=1"},],
+)
 
 
 app.layout = html.Div(
