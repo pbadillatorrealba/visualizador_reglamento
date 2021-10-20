@@ -36,6 +36,7 @@ navbar = dbc.Navbar(
         ]
     ),
     color="black",
+    class_name="sticky-top",
 )
 
 

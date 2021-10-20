@@ -14,6 +14,7 @@ import dash_bootstrap_components as dbc
 from dash import Input, Output, dcc, html
 
 from navbar import navbar
+from sidebar import sidebar
 from visualizador import visualizador
 
 app = dash.Dash(
@@ -26,7 +27,8 @@ app.layout = html.Div(
     [
         dcc.Location(id="url"),
         navbar,
-        dbc.Container(id="page-content", className="pt-4"),
+        # sidebar,
+        html.Div(id="page-content"),
     ]
 )
 

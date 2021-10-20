@@ -5,19 +5,48 @@ from unidecode import unidecode
 
 def visualizador(data: dict):
 
-    layout = [html.H2("Reglamento General", className="mt-2 mb-5 h1")]
+    sidebar = dbc.Col(
+        html.Ul(
+            [
+                html.Li(
+                    [
+                        html.A(
+                            titulo["titulo"] + " - " + titulo["descripcion"],
+                            href="#" + titulo["titulo"].replace(" ", "-"),
+                            className="nav-link h6",
+                        )
+                    ],
+                    className="nav-item",
+                )
+                for titulo in data
+            ],
+            className="nav flex-column",
+        ),
+        sm=2,
+        class_name="bg-secondary pt-4 ps-4",
+    )
+
+    body = dbc.Container(
+        [html.H2("Reglamento General", className="mt-2 mb-5 h1 text-center")],
+        class_name="mt-5",
+    )
 
     for titulo in data:
         seccion = html.Section([])
-        layout.append(seccion)
-        seccion.children.append(html.H3(titulo["titulo"], className="h3 mb-4"))
+        body.children.append(seccion)
+        seccion.children.append(
+            html.H6(titulo["titulo"], className="h4 mt-5 mb-0 text-center")
+        )
+        seccion.children.append(
+            html.H3(titulo["descripcion"], className="h2 mb-5 mt-0 text-center")
+        )
 
         for parrafo in titulo["contenido"]:
             # layout.append(html.Hr())
             seccion.children.append(
-                html.H4(str(parrafo["titulo"]), className="h6 mt-4 mb-0",)
+                html.H4(str(parrafo["titulo"]), className="h6 mt-5 mb-0 text-center",)
             )
-            href = f'#{unidecode(parrafo["titulo"].replace(" ", "-").replace("°","").lower())}'
+            href = f'#{unidecode((parrafo["titulo"] + "-" + parrafo["descripcion"]).replace(" ", "-").replace("°","").lower())}'
             seccion.children.append(
                 html.H3(
                     [
@@ -28,7 +57,7 @@ def visualizador(data: dict):
                             className="ms-1",
                         ),
                     ],
-                    className="h4 mt-0 mb-4",
+                    className="h4 mt-0 mb-5 text-center",
                     id=href,
                 )
             )
@@ -37,10 +66,12 @@ def visualizador(data: dict):
                 seccion.children.append(
                     html.H5(
                         [
-                            html.Span(str(articulo["titulo"]), className="text-muted",),
+                            html.Span(
+                                str(articulo["titulo"]), className="text-muted me-1",
+                            ),
                             str(articulo["descripcion"]),
                         ],
-                        className="h5 mb-3 mt-4",
+                        className="h5 mb-3 mt-4 text-capitalize",
                     )
                 )
 
@@ -66,4 +97,4 @@ def visualizador(data: dict):
                     # if "lista" in contenido:
                     #     layout.append(html.P(contenido["lista"], className="ms-4"))
 
-    return layout
+    return dbc.Row([sidebar, dbc.Col(body, sm=10)], class_name="w-100")
