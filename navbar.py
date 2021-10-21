@@ -31,6 +31,29 @@ navbar = dbc.Navbar(
                 # href="https://plotly.com",
                 style={"textDecoration": "none"},
             ),
+            dbc.DropdownMenu(
+                children=[
+                    dbc.DropdownMenuItem("Reglamento General", href="/general"),
+                    dbc.DropdownMenuItem("Ética", href="/etica"),
+                    dbc.DropdownMenuItem(
+                        "Participación y Consulta Indígena",
+                        href="/participacion-consulta-indigena",
+                    ),
+                    dbc.DropdownMenuItem(
+                        "Participación y Educación Popular",
+                        href="/participacion-educacion-popular",
+                    ),
+                    dbc.DropdownMenuItem(
+                        "Asignaciones y Administración", href="/asignaciones-admin"
+                    ),
+                    # dbc.DropdownMenuItem("", href="#"),
+                ],
+                nav=True,
+                color="danger",
+                in_navbar=True,
+                label="Reglamentos",
+                class_name="ms-1 text-primary",
+            ),
             dbc.NavbarToggler(id="navbar-toggler", n_clicks=0),
             dbc.Collapse(search_bar, id="navbar-collapse", is_open=False, navbar=True,),
         ]

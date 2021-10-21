@@ -1,3 +1,7 @@
+plotly
+gunicorn
 dash
-
+dash-auth
+dash-table
+dash-bootstrap-components
 unidecode

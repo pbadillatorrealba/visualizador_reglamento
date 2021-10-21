@@ -1,0 +1,922 @@
+{
+    "titulo": "REGLAMENTO DE PARTICIPACIÓN Y CONSULTA INDÍGENA",
+    "texto": null,
+    "tipo": "reglamento_completo",
+    "hijos": [{
+            "tipo": "titulo",
+            "titulo": "TÍTULO I",
+            "texto": "NORMAS GENERALES Y PRINCIPIOS DE LA PARTICIPACIÓN Y CONSULTA INDÍGENA",
+            "hijos": [{
+                "tipo": "contenedor_articulo",
+                "titulo": null,
+                "texto": null,
+                "hijos": [{
+                        "tipo": "articulo",
+                        "titulo": "Artículo 1.-",
+                        "texto": "Del derecho a la participación indígena durante el proceso constituyente.",
+                        "hijos": [{
+                                "tipo": "texto",
+                                "titulo": null,
+                                "texto": "La Convención Constitucional iniciará un proceso de participación y consulta indígena, conforme a los estándares internacionales de los derechos humanos de los pueblos indígenas, los cuales se encuentran establecidos, entre otras fuentes del derecho internacional, en aquellas mencionadas en el presente reglamento, que la Convención asume soberanamente.",
+                                "hijos": null
+                            },
+                            {
+                                "tipo": "texto",
+                                "titulo": null,
+                                "texto": "El proceso de participación y consulta indígena tendrá por objeto que, en el marco del funcionamiento de la Convención Constitucional y la propuesta de Constitución que elabore, el Estado de Chile reconozca, especifique, respete, promueva, proteja, garantice todas sus obligaciones para con los distintos pueblos y naciones indígenas preexistentes, que emanan de las obligaciones internacionales contraídas.",
+                                "hijos": null
+                            },
+                            {
+                                "tipo": "texto",
+                                "titulo": null,
+                                "texto": "El proceso de participación indígena se concretará en diversos mecanismos, los cuales deberán respetar y adaptarse a las particularidades e instituciones propias de los distintos pueblos y naciones indígenas preexistentes.",
+                                "hijos": null
+                            }
+                        ]
+                    },
+                    {
+                        "tipo": "articulo",
+                        "titulo": "Artículo 2.-",
+                        "texto": "Objeto del Reglamento.",
+                        "hijos": [{
+                            "tipo": "texto",
+                            "titulo": null,
+                            "texto": "El objeto del presente reglamento es establecer los mecanismos pertinentes, permanentes, vinculantes y continuados de participación y consulta indígena, que permitan a los pueblos y naciones indígenas preexistentes al Estado, presentar propuestas, recomendaciones y establecer acuerdos para ser debatidas en la etapa de deliberación del proceso constituyente, sin perjuicio de otros medios de participación que se tengan en otras etapas del proceso constituyente.",
+                            "hijos": null
+                        }]
+                    },
+                    {
+                        "tipo": "articulo",
+                        "titulo": "Artículo 3.-",
+                        "texto": "Definiciones.",
+                        "hijos": [{
+                                "tipo": "texto",
+                                "titulo": null,
+                                "texto": "Para efectos del presente reglamento, se entenderá por:",
+                                "hijos": null
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "a)",
+                                "hijos": [
+                                    "Pertinentes:",
+                                    "los mecanismos de participación y consulta indígena deben respetar y adaptarse a las particularidades e instituciones propias de cada pueblo y naciones indígenas preexistentes al Estado."
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "b)",
+                                "hijos": [
+                                    "Permanentes:",
+                                    "los mecanismos de participación y consulta indígena estarán presentes durante todo el proceso constituyente, respetando las normas que establezca el Reglamento de la Convención Constitucional sobre formación de normas constitucionales."
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "c)",
+                                "hijos": [
+                                    "Vinculantes:",
+                                    "Los acuerdos alcanzados en el proceso de participación y consulta indígena deberán incorporarse en los informes remitidos a las comisiones temáticas y en las propuestas de normas constitucionales sobre derechos individuales y colectivos indígenas que serán sometidas a aprobación conforme a las normas generales."
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "d)",
+                                "hijos": [
+                                    "Continuo:",
+                                    "el proceso de participación y consulta indígena se desarrollará en los distintos niveles de formulación extendiéndose a lo largo de éste y sin restringirse a un momento único e inicial, según los estándares internacionales sobre el derecho a la participación indígena."
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tipo": "articulo",
+                        "titulo": "Artículo 4.-",
+                        "texto": "Sobre los titulares del proceso de participación y consulta.",
+                        "hijos": [{
+                                "tipo": "texto",
+                                "titulo": null,
+                                "texto": "Para efectos de este Reglamento, los titulares del proceso de participación y consulta indígena serán los pueblos o naciones preexistentes, tal como se encuentran definidos por los instrumentos internacionales sobre derechos humanos de los pueblos indígenas.",
+                                "hijos": null
+                            },
+                            {
+                                "tipo": "texto",
+                                "titulo": null,
+                                "texto": "Se considerarán titulares de la participación y consulta, los siguientes:",
+                                "hijos": null
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "a)",
+                                "hijos": ["Autoridades ancestrales y tradicionales."]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "b)",
+                                "hijos": [
+                                    "Comunidades de hecho y derecho, y otras formas tradicionales de organización."
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "c)",
+                                "hijos": ["Asociaciones indígenas."]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "d)",
+                                "hijos": [
+                                    "Forma de organización indígena con o sin personalidad jurídica."
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "e)",
+                                "hijos": [
+                                    "Personas naturales que se auto identifiquen como pertenecientes a los pueblos y naciones preexistentes al Estado de Chile. En el caso de los miembros del pueblo Rapa Nui, deberán contar con dicha calidad acreditada conforme al artículo 66 de la ley 19.253."
+                                ]
+                            },
+                            {
+                                "tipo": "texto",
+                                "titulo": null,
+                                "texto": "Se deberá velar especialmente por la participación de niños, niñas y jóvenes indígenas; personas adultas mayores indígenas; personas de zonas rurales y comunidades de borde costero; personas indígenas privadas de libertad y especialmente mujeres indígenas de todos los pueblos y naciones preexistentes al Estado de Chile.",
+                                "hijos": null
+                            }
+                        ]
+                    },
+                    {
+                        "tipo": "articulo",
+                        "titulo": "Artículo 5.-",
+                        "texto": "Objetivo del proceso de participación y consulta indígena.",
+                        "hijos": [{
+                            "tipo": "texto",
+                            "titulo": null,
+                            "texto": "El proceso de participación y consulta indígena tendrá como objetivo propiciar la presentación de propuestas y recomendaciones respecto a los derechos de los pueblos indígenas y sus garantías, y alcanzar acuerdos con las comunidades, organizaciones pueblos y naciones preexistentes al Estado de Chile, para la salvaguarda e incorporación de estos derechos, conforme a las normas que este reglamento establece. Dichas propuestas tendrán como base fundamental las fuentes normativas contenidas en el artículo 7.",
+                            "hijos": null
+                        }]
+                    },
+                    {
+                        "tipo": "articulo",
+                        "titulo": "Artículo 6.-",
+                        "texto": "Principios generales.",
+                        "hijos": [{
+                                "tipo": "texto",
+                                "titulo": null,
+                                "texto": "Sin perjuicio de los principios consignados en el Reglamento General de la Convención, que tienen aplicación complementaria y supletoria a los establecidos en este artículo, el proceso de participación y consulta indígena se regirá por los siguientes principios:",
+                                "hijos": null
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "a)",
+                                "hijos": [
+                                    "Principio de plurinacionalidad y libre determinación de los pueblos.",
+                                    "En ejercicio de este principio la participación y consulta deberá ejecutarse en conjunto con las instituciones tradicionales y representativas, respetando los procedimientos y formas propias de organización de cada pueblo."
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "b)",
+                                "hijos": [
+                                    "Principio de continuidad y flexibilidad.",
+                                    "El proceso de participación y consulta será continuo y sistemático, y deberá desarrollarse a través de diversos momentos consagrados en este reglamento hasta su conclusión."
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "c)",
+                                "hijos": [
+                                    "Principio de interculturalidad.",
+                                    "El proceso de participación y consulta respetará las distintas culturas, tradiciones, expresiones y enfoques que tengan los distintos pueblos. Se reconocerá además el derecho a usar sus propias lenguas, en pleno respeto de las diversidades territoriales y marítimas de los pueblos y naciones preexistentes al Estado de Chile a lo largo del país."
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "d)",
+                                "hijos": [
+                                    "Principio de igualdad en el acceso a la información.",
+                                    "El proceso deberá tener como objetivo y enfoque la educación, información y capacitación de todas las personas que participen en él, sobre contenidos constitucionales, derechos humanos de los pueblos indígenas, conocimiento ancestral, y otras materias relacionadas con el proceso constituyente, debiendo tener en cuenta las distintas particularidades de cada pueblo, sus lenguas y tradiciones;"
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "e)",
+                                "hijos": [
+                                    "Principio de salvaguarda.",
+                                    "Los acuerdos alcanzados en el proceso de participación y consulta indígena serán incorporados en los términos del artículo 3, letra c. En cualquier caso, la Convención deberá siempre salvaguardar los derechos de los pueblos indígenas reconocidos en la Declaración de Naciones Unidas sobre los pueblos indígenas y otras fuentes normativas del artículo 7."
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "f)",
+                                "hijos": [
+                                    "Principio de transparencia.",
+                                    "Cada una de las etapas, procedimientos, documentos y resultados que se requieran para realizar el proceso de participación y consulta deberán ser públicas, respetando la transparencia del proceso y debiendo publicarse en el sitio electrónico de la Convención y el de la Secretaría;"
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "g)",
+                                "hijos": [
+                                    "Principio pro-pueblos.",
+                                    "La salvaguarda de los derechos de los pueblos indígenas es el fundamento de la consulta y todo el proceso está guiado por la protección más amplia a estos. La Convención, la Comisión y la Secretaría de Participación y Consulta deberán interpretar y preferir, en relación con el proceso de participación y consulta, la norma más amplia o la interpretación más extensiva o protectora de los derechos de los pueblos indígenas. Inversamente, cuando se trata de establecer restricciones al ejercicio de los derechos, deberá estarse a la norma o a la interpretación menos restrictiva de los derechos de los pueblos;"
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "h)",
+                                "hijos": [
+                                    "Buena Fe.",
+                                    "Implica el establecimiento de un clima de confianza mutua entre las partes y la disposición de llegar a acuerdos vinculantes. Habrá mala fe, entre otros casos, si las consultas se celebran como meras obligaciones de procedimiento, sin el objetivo de alcanzar acuerdos vinculantes;"
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "i)",
+                                "hijos": [
+                                    "Inclusivo y accesible:",
+                                    "deberá velar especialmente por la participación de personas pertenecientes a pueblos y naciones indígenas preexistentes al Estado, en condición de encontrarse con dificultades de acceso geográfico, físico, etario y otros, para ejercerla de manera óptima. Deberá respetarse el principio de paridad definido en el reglamento general."
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "j)",
+                                "hijos": [
+                                    "Principio de igualdad y no discriminación:",
+                                    "deberá garantizar que el proceso de participación cuente con las mismas condiciones y facilidades para todos y cada uno de los pueblos respetando sus particularidades y diversidad tanto cultural como territorial”."
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tipo": "articulo",
+                        "titulo": "Artículo 7.-",
+                        "texto": "Fuentes normativas del proceso.",
+                        "hijos": [{
+                                "tipo": "texto",
+                                "titulo": null,
+                                "texto": "La Convención Constitucional reconoce como fuentes normativas vinculantes para el proceso de participación y consulta indígena de buena fe, al menos a las siguientes:",
+                                "hijos": null
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "a)",
+                                "hijos": [
+                                    "El derecho propio o consuetudinario de los pueblos originarios."
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "b)",
+                                "hijos": [
+                                    "La Declaración de las Naciones Unidas sobre los derechos de los pueblos indígenas."
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "c)",
+                                "hijos": [
+                                    "El Convenio Nº169 de la Organización Internacional del Trabajo."
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "d)",
+                                "hijos": [
+                                    "El Pacto Internacional de Derechos Civiles y Políticos."
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "e)",
+                                "hijos": [
+                                    "El Pacto Internacional de Derechos Económicos, Sociales y Culturales."
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "f)",
+                                "hijos": ["La Convención Americana sobre Derechos Humanos."]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "g)",
+                                "hijos": [
+                                    "La Convención Internacional sobre la Eliminación de todas las Formas de Discriminación Racial."
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "h)",
+                                "hijos": ["La Convención sobre los Derechos del Niño."]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "i)",
+                                "hijos": [
+                                    "La Convención sobre la eliminación de todas las formas de discriminación contra la mujer."
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "j)",
+                                "hijos": ["El Convenio sobre la Diversidad Biológica."]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "k)",
+                                "hijos": [
+                                    "La Convención Marco de las Naciones Unidas sobre el Cambio Climático."
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "l)",
+                                "hijos": [
+                                    "La Declaración Americana sobre los derechos de los pueblos indígenas."
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "m)",
+                                "hijos": [
+                                    "La jurisprudencia de la Corte Interamericana de Derechos Humanos; las Observaciones y Recomendaciones de los Comités de Tratados de Derechos Humanos y de las Relatorías Especiales de Derechos Humanos de Naciones Unidas; y las recomendaciones de la Comisión Interamericana de Derechos Humanos."
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "n)",
+                                "hijos": [
+                                    "Otros instrumentos internacionales de derechos humanos aplicables."
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tipo": "articulo",
+                        "titulo": "Artículo 8.-",
+                        "texto": "Interpretación.",
+                        "hijos": [{
+                            "tipo": "texto",
+                            "titulo": null,
+                            "texto": "La interpretación de cualquiera de los instrumentos, mecanismos o derechos relacionados al proceso de participación y consulta se realizará conforme a las fuentes normativas y principios del Derecho Internacional y los usos y costumbres de cada pueblo anteriormente enunciados.",
+                            "hijos": null
+                        }]
+                    },
+                    {
+                        "tipo": "articulo",
+                        "titulo": "Artículo 9.-",
+                        "texto": "Obligación de fundar y motivar las decisiones que se adopten en el proceso de participación y consulta.",
+                        "hijos": [{
+                            "tipo": "texto",
+                            "titulo": null,
+                            "texto": "Este deber de fundamentación y motivación implica expresar las razones que determinaron que la Comisión acoja o deseche las propuestas y recomendaciones de los pueblos originarios expresadas en el proceso de participación y consulta, fundamentado en las normas de derecho internacional. Los motivos para no incorporar recomendaciones o propuestas deben ser objetivos, razonables y proporcionales a un interés legítimo en una sociedad democrática. La Comisión y la Convención deberá dar cuenta de los esfuerzos desplegados de buena fe para alcanzar acuerdos y, en el evento de no lograrlos, las medidas adoptadas para salvaguardar los derechos de los pueblos y naciones preexistentes al Estado.",
+                            "hijos": null
+                        }]
+                    },
+                    {
+                        "tipo": "articulo",
+                        "titulo": "Artículo 10.- ",
+                        "texto": "Supletoriedad del Reglamento General. ",
+                        "hijos": [{
+                            "tipo": "texto",
+                            "titulo": null,
+                            "texto": "En virtud del principio de especialidad, las normas consignadas en este Reglamento se aplicarán con preferencia a las normas del Reglamento General de la Convención el que, en todo caso, tendrá aplicación supletoria en todo lo no previsto en este Reglamento.",
+                            "hijos": null
+                        }]
+                    }
+                ]
+            }]
+        },
+        {
+            "tipo": "titulo",
+            "titulo": "TÍTULO II",
+            "texto": "ÓRGANOS DE PARTICIPACIÓN Y CONSULTA INDÍGENA",
+            "hijos": [{
+                    "tipo": "contenedor_articulo",
+                    "titulo": null,
+                    "texto": null,
+                    "hijos": [{
+                        "tipo": "articulo",
+                        "titulo": "Artículo 11.-",
+                        "texto": "Órganos de participación y consulta indígena.",
+                        "hijos": [{
+                                "tipo": "texto",
+                                "titulo": null,
+                                "texto": "La Convención Constitucional delega en la Comisión de Derechos de los Pueblos Indígenas y Plurinacionalidad, en adelante “la Comisión”, la facultad de propiciar, acompañar y velar por un adecuado proceso de participación y consulta indígena y de establecer acuerdos. Esta Comisión será de carácter permanente y su finalidad será velar por la debida implementación del proceso de participación y consulta indígena durante el proceso constituyente, conforme a los principios y estándares definidos en este Reglamento.",
+                                "hijos": null
+                            },
+                            {
+                                "tipo": "texto",
+                                "titulo": null,
+                                "texto": "Se creará, además, una Secretaría de Participación y Consulta Indígena, encargada de diseñar, ejecutar y llevar a cabo la participación y consulta, cumpliendo las recomendaciones que le imparta la Comisión.",
+                                "hijos": null
+                            }
+                        ]
+                    }]
+                },
+                {
+                    "tipo": "parrafo",
+                    "titulo": "Párrafo 1°",
+                    "texto": "De la Comisión de Derechos de los Pueblos Indígenas y Plurinacionalidad",
+                    "hijos": [{
+                            "tipo": "articulo",
+                            "titulo": "Artículo 12.-",
+                            "texto": "Funciones de la Comisión de Derechos de Pueblos Indígenas y Plurinacionalidad.",
+                            "hijos": [{
+                                    "tipo": "texto",
+                                    "titulo": null,
+                                    "texto": "La Comisión de Derechos de Pueblos Indígenas y Plurinacionalidad, en adelante “la Comisión”, tendrá́ las siguientes funciones:",
+                                    "hijos": null
+                                },
+                                {
+                                    "tipo": "lista",
+                                    "titulo": null,
+                                    "texto": "a)",
+                                    "hijos": [
+                                        "Velar que la implementación del proceso de participación y consulta, ejecutado por la Secretaría, se ajuste a los principios y estándares definidos en este Reglamento, con pleno respeto a las instituciones propias de cada pueblo."
+                                    ]
+                                },
+                                {
+                                    "tipo": "lista",
+                                    "titulo": null,
+                                    "texto": "b)",
+                                    "hijos": [
+                                        "Elaborar dentro de un plazo de quince días desde el inicio de su funcionamiento, un Documento Base sobre Derechos de Pueblos Indígenas y Plurinacionalidad, fundado en las fuentes normativas establecidas en el artículo 7, a fin de iniciar en base a éste el proceso de participación y consulta indígena, que será también remitido para deliberación a todas las comisiones temáticas."
+                                    ]
+                                },
+                                {
+                                    "tipo": "lista",
+                                    "titulo": null,
+                                    "texto": "c)",
+                                    "hijos": [
+                                        "Recibir de la Secretaría, la sistematización de la participación y consulta indígena."
+                                    ]
+                                },
+                                {
+                                    "tipo": "lista",
+                                    "titulo": null,
+                                    "texto": "d)",
+                                    "hijos": [
+                                        "Emitir un informe fundado y razonado de la sistematización del proceso de consulta, consignando los acuerdos alcanzados entre la Convención y los pueblos indígenas."
+                                    ]
+                                },
+                                {
+                                    "tipo": "lista",
+                                    "titulo": null,
+                                    "texto": "e)",
+                                    "hijos": [
+                                        "Elaborar, en base a las fuentes normativas establecidas en el presente reglamento y los resultados de la participación y consulta indígena, las propuestas de normas que conformarán el catálogo de derechos de los pueblos indígenas que se someterá a votación del Pleno de la Convención, en conformidad a las reglas establecidas en el Reglamento general."
+                                    ]
+                                },
+                                {
+                                    "tipo": "lista",
+                                    "titulo": null,
+                                    "texto": "f)",
+                                    "hijos": [
+                                        "Realizar informes con base en la participación indígena, con recomendaciones de propuesta de contenidos específicos sobre derechos de los pueblos indígenas, para que sea valorado en su mérito en la deliberación en las comisiones temáticas respectivas."
+                                    ]
+                                },
+                                {
+                                    "tipo": "lista",
+                                    "titulo": null,
+                                    "texto": "g)",
+                                    "hijos": [
+                                        "Promover el respeto y la observancia del principio de plurinacionalidad."
+                                    ]
+                                },
+                                {
+                                    "tipo": "lista",
+                                    "titulo": null,
+                                    "texto": "h)",
+                                    "hijos": [
+                                        "Cualquier otra función que determine este Reglamento."
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "articulo",
+                            "titulo": "Artículo 13.-",
+                            "texto": "Integración.",
+                            "hijos": [{
+                                "tipo": "texto",
+                                "titulo": null,
+                                "texto": "La Comisión de Derechos de Pueblos Indígenas y de Plurinacionalidad se integrará por 25 Convencionales Constituyentes, 17 de ellos de escaños reservados de pueblos indígenas y 8 convencionales generales. Los escaños reservados de pueblos indígenas concurren a integrar la comisión por derecho propio y los otros 8 escaños se deberán presentar con 8 patrocinios de convencionales generales, con criterio de equidad territorial y de género y pluralismo. Los integrantes de la Comisión no tendrán impedimento para integrar una comisión temática.",
+                                "hijos": null
+                            }]
+                        },
+                        {
+                            "tipo": "articulo",
+                            "titulo": "Artículo 14.-",
+                            "texto": "Del funcionamiento de la Comisión.",
+                            "hijos": [{
+                                    "tipo": "texto",
+                                    "titulo": null,
+                                    "texto": "La comisión, en su primer día de funcionamiento, deberá establecer un cronograma de trabajo que considere el propuesto por las demás comisiones, debiendo resguardarse en todo momento que los días y horarios de su funcionamiento no coincidan con los días y horarios de funcionamiento de las comisiones temáticas.",
+                                    "hijos": null
+                                },
+                                {
+                                    "tipo": "texto",
+                                    "titulo": null,
+                                    "texto": "Podrán participar en la Comisión con derecho a voz y voto las y los convencionales que las integren. Sin perjuicio de lo anterior, las y los convencionales que no la integren podrán participar en su debate con derecho a voz y sin derecho a voto. No habrá diferencia alguna en el orden de las palabras entre los Convencionales integrantes y no integrantes.",
+                                    "hijos": null
+                                },
+                                {
+                                    "tipo": "texto",
+                                    "titulo": null,
+                                    "texto": "En lo compatible, para el uso de la palabra se aplicará lo reglado en las normas sobre funcionamiento del Pleno. La coordinación de la Comisión será elegida con criterio de paridad de género dos convencionales elegidos por consenso y, en subsidio, de no haber acuerdo, se deberán elegir por mayoría de los convencionales integrantes de la Comisión. La Comisión contará con una Secretaría.",
+                                    "hijos": null
+                                },
+                                {
+                                    "tipo": "texto",
+                                    "titulo": null,
+                                    "texto": "La Comisión podrá solicitar a la Secretaría Técnica de la Convención informes, documentos de apoyo o cualquier documento que sea necesario para la deliberación.",
+                                    "hijos": null
+                                },
+                                {
+                                    "tipo": "texto",
+                                    "titulo": null,
+                                    "texto": "Sin perjuicio de lo anterior, la comisión podrá acordar las medidas necesarias para su mejor funcionamiento.",
+                                    "hijos": null
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tipo": "parrafo",
+                    "titulo": "Párrafo 2°",
+                    "texto": "De la Secretaría de Participación y Consulta Indígena",
+                    "hijos": [{
+                            "tipo": "articulo",
+                            "titulo": "Artículo 15.-",
+                            "texto": "Secretaría de Participación y Consulta Indígena.",
+                            "hijos": [{
+                                    "tipo": "texto",
+                                    "titulo": null,
+                                    "texto": "La Secretaría de Participación Indígena será un órgano colegiado de carácter técnico, ejecutivo y plurinacional que se conducirá bajo las normas y principios orientadores del presente reglamento y de los principios rectores del reglamento general de la Convención, cuya finalidad será asesorar a la Convención Constitucional en materias de pueblos y naciones preexistentes e implementar la participación y consulta indígena.",
+                                    "hijos": null
+                                },
+                                {
+                                    "tipo": "texto",
+                                    "titulo": null,
+                                    "texto": "La Secretaría de Participación y Consulta Indígena dependerá administrativamente de la Secretaría Técnica Constitucional y será una unidad especializada dentro de ella.",
+                                    "hijos": null
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "articulo",
+                            "titulo": "Artículo 16.-",
+                            "texto": "Funciones de la Secretaría.",
+                            "hijos": [{
+                                    "tipo": "texto",
+                                    "titulo": null,
+                                    "texto": "La Secretaría de Participación y Consulta Indígena tendrá las siguientes funciones:",
+                                    "hijos": null
+                                },
+                                {
+                                    "tipo": "lista",
+                                    "titulo": null,
+                                    "texto": "a)",
+                                    "hijos": [
+                                        "Elaborar, en un plazo no mayor de quince días corridos, un diseño y planificación del proceso de participación y consulta y presentar una planificación del mismo a la Comisión y a la Mesa."
+                                    ]
+                                },
+                                {
+                                    "tipo": "lista",
+                                    "titulo": null,
+                                    "texto": "b)",
+                                    "hijos": [
+                                        "Confeccionar las formas, modelos, instrumentos y pautas para desarrollar el proceso de participación y consulta indígenas de manera eficaz, considerando las directrices dadas por la Comisión y según los estándares y principios de este Reglamento. Deberá considerar para estos efectos los informes de orientaciones metodológicas presentadas por cada pueblo en el informe final de la comisión provisoria de participación y consulta indígena;"
+                                    ]
+                                },
+                                {
+                                    "tipo": "lista",
+                                    "titulo": null,
+                                    "texto": "c)",
+                                    "hijos": [
+                                        "Generar un mecanismo metodológico de educación y capacitación continua con pertinencia, para cada pueblo indígena preexistente al Estado, respetando sus particularidades territoriales. Para esta función podrá ser asistida por la Comisión de Comunicaciones de la Convención;"
+                                    ]
+                                },
+                                {
+                                    "tipo": "lista",
+                                    "titulo": null,
+                                    "texto": "d)",
+                                    "hijos": [
+                                        "Elaborar una política de comunicación e información pública que dé a conocer los momentos y etapas del proceso de participación y consulta, los principios que la rigen y la forma que tendrán los Pueblos de relacionarse con la Convención, a través de medios escritos, digitales, televisivos y radiales. Para esta función podrá generar un vínculo permanente con la Comisión de comunicaciones de la Convención;"
+                                    ]
+                                },
+                                {
+                                    "tipo": "lista",
+                                    "titulo": null,
+                                    "texto": "e)",
+                                    "hijos": [
+                                        "Implementar y mantener un sitio electrónico que almacene materiales, información, los cronogramas definidos por los propios pueblos para el proceso de participación y consulta y sus resultados. Para esta función podrá generar un vínculo permanente con la Comisión de Comunicaciones de la Convención;"
+                                    ]
+                                },
+                                {
+                                    "tipo": "lista",
+                                    "titulo": null,
+                                    "texto": "f)",
+                                    "hijos": [
+                                        "Desarrollar un sistema de recolección, recepción y sistematización de las materias consultadas y de la participación indígena, que será puesto oportunamente a disposición de la Comisión;"
+                                    ]
+                                },
+                                {
+                                    "tipo": "lista",
+                                    "titulo": null,
+                                    "texto": "g)",
+                                    "hijos": [
+                                        "Elaborar las convocatorias pertinentes a cada etapa del proceso de participación y consulta, que contendrán los mecanismos de participación, plazos, modalidad de asistencia, materias a tratar y cualquier otro que permita la participación y consulta indígena. Para estos efectos se regirá por los plazos generales establecidos para el desarrollo del proceso constituyente;"
+                                    ]
+                                },
+                                {
+                                    "tipo": "lista",
+                                    "titulo": null,
+                                    "texto": "h)",
+                                    "hijos": [
+                                        "Generar para la Comisión un informe acerca del proceso de participación que refleje cantidad de participantes y modalidad de participación;"
+                                    ]
+                                },
+                                {
+                                    "tipo": "lista",
+                                    "titulo": null,
+                                    "texto": "i)",
+                                    "hijos": [
+                                        "Deberá traducir o interpretar los instrumentos del proceso a las lenguas de los pueblos indígenas preexistentes al Estado;"
+                                    ]
+                                },
+                                {
+                                    "tipo": "lista",
+                                    "titulo": null,
+                                    "texto": "j)",
+                                    "hijos": [
+                                        "Proponer a la Mesa los convenios necesarios con instituciones de educación superior y organismos públicos, internacionales y otros que colaboren en la implementación del proceso continuo de participación y consulta."
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "tipo": "articulo",
+                            "titulo": "Artículo 17.-",
+                            "texto": "Integración de la Secretaría de Participación y Consulta.",
+                            "hijos": [{
+                                    "tipo": "texto",
+                                    "titulo": null,
+                                    "texto": "La Secretaría de Participación y Consulta indígena estará compuesta por personas de comprobada experiencia en procesos participativos y conocedores de la cultura y cosmovisión de los pueblos indígenas.",
+                                    "hijos": null
+                                },
+                                {
+                                    "tipo": "texto",
+                                    "titulo": null,
+                                    "texto": "La Secretaría deberá estar integrada a lo menos por una persona perteneciente a cada pueblo indígena. La integración debe ser propuesta por la Mesa Directiva al Pleno mediante un proceso transparente y objetivo.",
+                                    "hijos": null
+                                },
+                                {
+                                    "tipo": "texto",
+                                    "titulo": null,
+                                    "texto": "Adicionalmente, podrá ser integrada por funcionarios/as de organismos del Estado, internacionales, Universidades, u otros, en comisión de servicio o colaboración, que cumplan con los requisitos establecidos en este artículo.",
+                                    "hijos": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "tipo": "titulo",
+            "titulo": "TÍTULO III",
+            "texto": "DE LA PARTICIPACIÓN Y CONSULTA INDÍGENA",
+            "hijos": [{
+                "tipo": "contenedor_articulo",
+                "titulo": null,
+                "texto": null,
+                "hijos": [{
+                        "tipo": "articulo",
+                        "titulo": "Artículo 18.-",
+                        "texto": "Mecanismos Generales.",
+                        "hijos": [{
+                            "tipo": "texto",
+                            "titulo": null,
+                            "texto": "Los pueblos y naciones preexistentes al Estado de Chile tienen derecho a participar en todas y cada una de las etapas del proceso constitucional, a través de las vías establecidas por los Reglamentos que rigen la actividad de la Convención Constitucional.",
+                            "hijos": null
+                        }]
+                    },
+                    {
+                        "tipo": "articulo",
+                        "titulo": "Artículo 19.-",
+                        "texto": "Etapas del proceso de participación y consulta.",
+                        "hijos": [{
+                                "tipo": "texto",
+                                "titulo": null,
+                                "texto": "El proceso de participación y consulta tendrá las siguientes etapas:",
+                                "hijos": null
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "1.",
+                                "hijos": [
+                                    "Etapa de difusión de información y educación sobre el proceso de participación y consulta. Etapa permanente y continuada de participación constituyente e información, educación, capacitación, socialización, asesoría y fortalecimiento de capacidades. Desde la aprobación del reglamento definitivo, se iniciarán procesos paralelos en los territorios, comunidades, asociaciones, y otras organizaciones mencionadas en este reglamento, para informar, difundir, educar, promover y socializar la generación de conocimientos, habilidades y competencias sobre contenidos y procedimientos constitucionales, derechos humanos de los pueblos indígenas y los instrumentos internacionales donde se encuentran consagrados.",
+                                    "A estos efectos, la Secretaría de Participación y Consulta deberá elaborar información adecuada y pertinente culturalmente, con un lenguaje claro y simple que permita su fácil comprensión y el acceso a toda la información necesaria para participar en el proceso en condiciones de igualdad.",
+                                    "Para estos fines, la Secretaría, a través de la Mesa de la Convención, podrá establecer convenios con diferentes instituciones públicas o privadas, nacionales e internacionales, que cuenten con la debida pertinencia profesional, logística y cultural.",
+                                    "Se deberá publicar un cronograma con las etapas y plazos del proceso, que deberá ser puesta a disposición de los titulares.",
+                                    "La Convención, a través de la Secretaría deberá efectuar una convocatoria general al proceso de consulta con los pueblos indígenas, que se llevará a cabo de manera continua, flexible, deliberativa y de buena fe."
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "2.",
+                                "hijos": [
+                                    "“Etapa de elaboración del documento base para el proceso de participación y consulta. Dentro de los primeros quince días de funcionamiento, la Comisión deberá elaborar un documento base para ser sometido al proceso de consulta con el fin de alcanzar acuerdos con los destinatarios del proceso. El documento base deberá contener al menos un catálogo de derechos específicos de los pueblos indígenas, y la forma en que se concretizan y garantizan en el texto constitucional, tomando como base los instrumentos mencionados en el artículo 7.",
+                                    "El documento base será aprobado por la mayoría de los presentes y votantes de la Comisión, para posteriormente ser puesto a disposición de los titulares de la consulta."
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "3.",
+                                "hijos": [
+                                    "Etapa de Diálogo y Deliberación propia. Los titulares del proceso se organizarán, deliberarán y decidirán conforme a sus instituciones y procedimientos propios, sin perjuicio del deber de la Secretaría de elaborar y difundir una guía orientativa mínima y de comunicar oportunamente los resultados del proceso a la Comisión."
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "4.",
+                                "hijos": [
+                                    "Etapa de recepción y sistematización de los resultados del proceso de participación y consulta. La Secretaría dispondrá, con la debida antelación, las diferentes formas de recabar y recepcionar los resultados del proceso. En esta tarea documentará, sistematizará y ordenará las propuestas, recomendaciones y acuerdos que hayan emanado del proceso.",
+                                    "La sistematización deberá preservar la veracidad y origen de las propuestas y acuerdos, así como todos aquellos antecedentes que permitan su cabal comprensión. Con estos antecedentes, elaborará un Informe de Sistematización que pondrá a disposición de la Comisión para que ésta, en cumplimiento de sus funciones, lo incorpore en el procedimiento de discusión de la norma constitucional."
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "5.",
+                                "hijos": [
+                                    "Etapa de Elaboración de Informe Sobre los Acuerdos Alcanzados. Sobre la base del Informe de Sistematización remitido por la Secretaría, la Comisión elaborará los Informes respectivos que serán entregados a las comisiones temáticas pertinentes. En caso de que la mayoría de los miembros de la Comisión requiera a la Secretaría que aclare, complemente o explique aspectos de su informe, ésta contará con el plazo de cinco días corridos para responder el requerimiento y evacuar un nuevo informe. Los informes elaborados deberán ser aprobados por la mayoría simple de sus miembros."
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "6.",
+                                "hijos": [
+                                    "Etapa de Propuestas Normativas. La Comisión podrá recibir, elaborar, debatir y formular normas e indicaciones relativas a los derechos de los pueblos indígenas, sus garantías e instituciones, respetando estrictamente los acuerdos a los que arribe con los pueblos.",
+                                    "Estas propuestas tendrán como marco fundamental los informes señalados en el numeral anterior. Estas propuestas deberán ser aprobadas por esta comisión conforme a las reglas generales."
+                                ]
+                            },
+                            {
+                                "tipo": "lista",
+                                "titulo": null,
+                                "texto": "7.",
+                                "hijos": [
+                                    "Etapa de información de resultados: La comisión deberá informar a los pueblos y sus organizaciones representativas y demás destinatarios, por todos los medios a su alcance, el resultado de cada etapa o iniciativa que lleve a cabo, como parte de su trabajo específico, especialmente lo relativo al informe base para la discusión; compilación de las propuestas, recomendaciones y acuerdos arribadas en los procesos de participación y consulta; la propuesta de catálogo de derechos; y, los informes que serán remitidos a las comisiones respectivas."
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tipo": "articulo",
+                        "titulo": "Artículo 20.-",
+                        "texto": "Audiencias públicas.",
+                        "hijos": [{
+                            "tipo": "texto",
+                            "titulo": null,
+                            "texto": "Durante la deliberación de la Comisión, se podrá recibir presentaciones o exposiciones de los temas de interés indígenas de los destinatarios de este reglamento y de cualquier otro interesado. Estas pueden ser presenciales o por medios telemáticos.",
+                            "hijos": null
+                        }]
+                    },
+                    {
+                        "tipo": "articulo",
+                        "titulo": "Artículo 21.-",
+                        "texto": "Derecho a organizarse y autoconvocarse.",
+                        "hijos": [{
+                            "tipo": "texto",
+                            "titulo": null,
+                            "texto": "Los titulares identificados en este reglamento tendrán el derecho a organizarse y autoconvocarse conforme a instituciones propias de cada pueblo, para desarrollar un proceso participativo y propuestas indígenas.",
+                            "hijos": null
+                        }]
+                    },
+                    {
+                        "tipo": "articulo",
+                        "titulo": "Artículo 22.-",
+                        "texto": "Iniciativas constituyentes.",
+                        "hijos": [{
+                                "tipo": "texto",
+                                "titulo": null,
+                                "texto": "En ejercicio del derecho a participación indígena, los pueblos y naciones preexistentes al Estado de Chile podrán realizar iniciativas y propuestas de normas constitucionales a la Convención Constitucional por medio de sus instituciones propias.",
+                                "hijos": null
+                            },
+                            {
+                                "tipo": "texto",
+                                "titulo": null,
+                                "texto": "Las iniciativas y propuestas no tendrán más formalidades que aquellos aspectos que permitan el total entendimiento del espíritu de la norma constitucional propuesta, que sea presentada dentro del plazo que el reglamento general determine para las iniciativas populares y que cumpla con los patrocinios especificados en el inciso siguiente.",
+                                "hijos": null
+                            },
+                            {
+                                "tipo": "texto",
+                                "titulo": null,
+                                "texto": "En el caso de los pueblos Mapuche, Aimara y Diaguita, las iniciativas deberán contar con el patrocinio de a lo menos tres comunidades o cinco asociaciones indígenas registradas ante la Corporación Nacional de Desarrollo Indígena o un cacicazgo tradicional reconocido en la ley Nº 19.253. También podrán patrocinar las iniciativas las organizaciones representativas de los pueblos indígenas que no estén inscritas, requiriéndose tres de ellas. Las iniciativas también podrán ser patrocinadas por a lo menos ciento veinte firmas de personas que pertenezcan a los pueblos o naciones preexistentes al Estado.",
+                                "hijos": null
+                            },
+                            {
+                                "tipo": "texto",
+                                "titulo": null,
+                                "texto": "En el caso de los demás pueblos, bastará el patrocinio de una sola comunidad, asociación registrada u organización indígena no registrada; o bien, de a lo menos sesenta firmas de personas que tengan acreditada la calidad indígena del mismo pueblo.",
+                                "hijos": null
+                            },
+                            {
+                                "tipo": "texto",
+                                "titulo": null,
+                                "texto": "Dichas iniciativas deberán ser presentadas por las vías postales o digitales que posea la Convención Constitucional, sean propias de la Convención, o bien acordadas con otros Órganos de la Administración del Estado, tales como Gobernaciones, Seremis, Municipalidades, y otras. Para facilitar la recepción de estas propuestas e iniciativas por parte de dichos Órganos, la Mesa de la Convención podrá celebrar los respectivos Convenios de Colaboración.",
+                                "hijos": null
+                            },
+                            {
+                                "tipo": "texto",
+                                "titulo": null,
+                                "texto": "Las iniciativas y propuestas efectuadas y recepcionadas, en el proceso de participación indígena, serán recolectadas y sistematizadas, de acuerdo al sistema que desarrolle la Secretaría de Participación y Consulta Indígena, sistema que será puesto oportunamente a disposición de la Comisión.",
+                                "hijos": null
+                            }
+                        ]
+                    },
+                    {
+                        "tipo": "articulo",
+                        "titulo": "Artículo 23.-",
+                        "texto": "Semana territorial.",
+                        "hijos": [{
+                            "tipo": "texto",
+                            "titulo": null,
+                            "texto": "Cada convencional por escaños reservados podrá hacer uso de una semana territorial al mes, para reunirse con organizaciones indígenas pertenecientes a su pueblo, autoridades tradicionales, comunidades u otras organizaciones con el fin de promover la participación en el proceso constituyente.",
+                            "hijos": null
+                        }]
+                    },
+                    {
+                        "tipo": "articulo",
+                        "titulo": "Artículo 24.-",
+                        "texto": "Informes de la Comisión.",
+                        "hijos": [{
+                            "tipo": "texto",
+                            "titulo": null,
+                            "texto": "Los informes de la Comisión estarán sujetos a las reglas establecidas en el artículo 93 del Reglamento de la Convención.",
+                            "hijos": null
+                        }]
+                    },
+                    {
+                        "tipo": "articulo",
+                        "titulo": "Artículo 25.-",
+                        "texto": "Presupuesto.",
+                        "hijos": [{
+                            "tipo": "texto",
+                            "titulo": null,
+                            "texto": "La Secretaría de Participación Indígena, consultando a la Comisión de Participación y Consulta Indígena, deberá proponer un presupuesto para financiar el proceso de participación y consulta indígena, a la instancia respectiva de la Convención Constitucional, que administre su presupuesto, a fin de que la Convención solicite los respectivos recursos, de acuerdo a las normas e institucionalidad que regulan la Hacienda Pública.",
+                            "hijos": null
+                        }]
+                    }
+                ]
+            }]
+        },
+        {
+            "tipo": "titulo_sin_texto",
+            "titulo": "Aprobado en sesiones de fecha 14 de septiembre y 1 y 4 de octubre de 2021.",
+            "texto": null,
+            "hijos": []
+        }
+    ]
+}
